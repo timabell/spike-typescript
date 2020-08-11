@@ -1,0 +1,4 @@
+#!/bin/sh
+# https://github.com/guard/guard/wiki/Guard-alternatives
+# http://eradman.com/entrproject/
+echo greeter.ts | entr ./build

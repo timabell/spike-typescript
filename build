@@ -1,2 +1,3 @@
 #!/bin/sh -v
 tsc greeter.ts
+touch index.html
