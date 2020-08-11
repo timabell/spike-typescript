@@ -1,4 +1,5 @@
-function greeter(person: string) {
+//function greeter(person: string) {
+function greeter() {
 	return "Hello, " + person;
 }
 //let user = "little bobby drop tables";
